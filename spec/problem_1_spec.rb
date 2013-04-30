@@ -22,6 +22,6 @@ describe Problem1 do
   end
 
   it "returns answer" do
-    puts(subject.answer)
+    # puts(subject.answer)
   end
 end

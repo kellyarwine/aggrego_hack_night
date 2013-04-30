@@ -14,6 +14,6 @@ describe Problem2 do
   end
 
   it "returns answer" do
-    puts(subject.sum_even_fibonacci(4_000_000))
+    # puts(subject.sum_even_fibonacci(4_000_000))
   end
 end
